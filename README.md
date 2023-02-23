@@ -1,0 +1,1 @@
+A python made Discord Bot, to allow users in servers to search for music from youtube and play it on a server of choice.
